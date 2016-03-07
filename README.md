@@ -1,2 +1,2 @@
 # logique
-my personal projects
+My Personal SciFi Game projects.
